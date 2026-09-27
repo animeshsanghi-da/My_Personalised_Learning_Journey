@@ -11,13 +11,10 @@ __pycache__/
 99_other_files/
 
 # 3. files
+compilation_create.py
 compiled_markdown_files.md
-main.py
-main2.py
-main3.py
 prompt.txt
 readme_create.py
-test.py
 
 # =====================================================================
 # 👨‍💻 Author: Animesh Sanghi

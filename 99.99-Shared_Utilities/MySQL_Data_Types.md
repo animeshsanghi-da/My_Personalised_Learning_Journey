@@ -34,6 +34,7 @@ To stay aligned with modern database design patterns and the cleanup introduced 
 - **The Real Wall:** Unlike numeric types, the `(M)` in `CHAR(M)` and `VARCHAR(M)` is an ANSI-standard structural constraint. Declaring `VARCHAR(100)` builds a strict data boundary. Attempting to pass a 101st character triggers a hard engine rejection to protect data integrity.
 
 ---
+
 ## 🔢 Numeric Data Types
 
 * **TINYINT**
